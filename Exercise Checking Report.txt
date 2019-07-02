@@ -1,0 +1,13 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: 204185805 - David Sidi
+Second Student Details: 204270953 - Ofir Cohen
+Delivery Date.........: 27.08.18
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............: 
+Test user account:
+Username: barney_jxksnfb_stinson@tfbnw.net
+Password: design.patternspp
+=======================End Exercise Checking Report=========================
